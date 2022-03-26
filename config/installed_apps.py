@@ -1,0 +1,16 @@
+INSTALLED_APPS = [
+    'cadastros_basicos.apps.CadastrosBasicosConfig',
+    'contratos.apps.ContratosConfig',
+    'controle.apps.ControleConfig',
+    'controle_de_acesso.apps.ControledeAcessoConfig',
+    'convenios.apps.ConveniosConfig',
+    'dados_externos.apps.DadosExternosConfig',
+    'despesas_sem_contrato.apps.DespesassemContratoConfig',
+    'dispositivos_de_contratacao.apps.DispositivosdeContratacaoConfig',
+    'execucao_orcamentaria.apps.ExecucaoOrcamentariaConfig',
+    'instrumentos_de_contratacao.apps.InstrumentosdeContratacaoConfig',
+    'painel_de_controle.apps.PaineldeControleConfig',
+    'planejamento.apps.PlanejamentoConfig',
+    'relatorios.apps.RelatoriosConfig',
+    'website.apps.WebsiteConfig',
+]
